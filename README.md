@@ -1,4 +1,5 @@
 Um Conversor de Notas e Cifras
+
 Este projeto foi criado como parte da Imersão DEV Alura 2025, na aula de Variáveis e Operações. A ideia surgiu do desejo de facilitar o aprendizado das notas musicais e suas equivalências em cifras, proporcionando uma solução prática e interativa para músicos e aprendizes!
 
 Funcionalidades:
