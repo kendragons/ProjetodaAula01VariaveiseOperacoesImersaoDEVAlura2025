@@ -1,0 +1,63 @@
+/* Global Styles */
+body {
+  background-color: pink;
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica, helvetica;
+  color: white;
+  position: relative;
+}
+
+/* Logo Styles */
+.logo {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  max-width: 150px;
+  width: auto;
+}
+
+/* Container with the background image */
+.container {
+  background: url('https://cdn4.vectorstock.com/i/1000x1000/60/03/music-notes-white-on-a-black-background-vector-22296003.jpg') no-repeat center center/cover;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Content div for text and button */
+.content {
+  text-align: center;
+  font-size: 1.5em;
+  background-color: rgba(2, 5, 8, 0.5);
+  padding: 40px 40px;
+  border-radius: 16px;
+}
+
+.content h2 {
+  margin-bottom: 20px;
+}
+
+/* Button Styles */
+button {
+  background-color: #800080;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1.2em;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #6A5ACD;
+}
+
+/* Footer Styles */
+footer {
+  text-align: center;
+  border: 4px grey;
+  color: black;
+  padding: 10px;
+}
